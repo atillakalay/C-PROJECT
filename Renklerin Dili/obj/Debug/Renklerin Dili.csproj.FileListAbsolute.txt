@@ -1,0 +1,11 @@
+C:\Users\Atilla\Desktop\C# FORM DERSLERİM - MURAT YÜCEDAĞ\Renklerin Dili\bin\Debug\Renklerin Dili.exe.config
+C:\Users\Atilla\Desktop\C# FORM DERSLERİM - MURAT YÜCEDAĞ\Renklerin Dili\bin\Debug\Renklerin Dili.exe
+C:\Users\Atilla\Desktop\C# FORM DERSLERİM - MURAT YÜCEDAĞ\Renklerin Dili\bin\Debug\Renklerin Dili.pdb
+C:\Users\Atilla\Desktop\C# FORM DERSLERİM - MURAT YÜCEDAĞ\Renklerin Dili\obj\Debug\Renklerin Dili.csprojAssemblyReference.cache
+C:\Users\Atilla\Desktop\C# FORM DERSLERİM - MURAT YÜCEDAĞ\Renklerin Dili\obj\Debug\Renklerin_Dili.Form1.resources
+C:\Users\Atilla\Desktop\C# FORM DERSLERİM - MURAT YÜCEDAĞ\Renklerin Dili\obj\Debug\Renklerin_Dili.Properties.Resources.resources
+C:\Users\Atilla\Desktop\C# FORM DERSLERİM - MURAT YÜCEDAĞ\Renklerin Dili\obj\Debug\Renklerin Dili.csproj.GenerateResource.cache
+C:\Users\Atilla\Desktop\C# FORM DERSLERİM - MURAT YÜCEDAĞ\Renklerin Dili\obj\Debug\Renklerin Dili.csproj.CoreCompileInputs.cache
+C:\Users\Atilla\Desktop\C# FORM DERSLERİM - MURAT YÜCEDAĞ\Renklerin Dili\obj\Debug\Renklerin Dili.exe
+C:\Users\Atilla\Desktop\C# FORM DERSLERİM - MURAT YÜCEDAĞ\Renklerin Dili\obj\Debug\Renklerin Dili.pdb
+C:\Users\Atilla\Desktop\C# FORM DERSLERİM - MURAT YÜCEDAĞ\Renklerin Dili\obj\Debug\Renklerin_Dili.Form2.resources
